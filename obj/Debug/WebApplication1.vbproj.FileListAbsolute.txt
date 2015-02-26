@@ -1,0 +1,36 @@
+F:\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+F:\WebApplication1\WebApplication1\bin\WebApplication1.dll
+F:\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+F:\WebApplication1\WebApplication1\bin\WebApplication1.xml
+F:\WebApplication1\WebApplication1\obj\Debug\WebApplication1.Resources.resources
+F:\WebApplication1\WebApplication1\obj\Debug\WebApplication1.vbproj.GenerateResource.Cache
+F:\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+F:\WebApplication1\WebApplication1\obj\Debug\WebApplication1.xml
+F:\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+T:\ЭиУ-468\Yakovlev\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+T:\ЭиУ-468\Yakovlev\WebApplication1\WebApplication1\bin\WebApplication1.dll
+T:\ЭиУ-468\Yakovlev\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+T:\ЭиУ-468\Yakovlev\WebApplication1\WebApplication1\bin\WebApplication1.xml
+T:\ЭиУ-468\Yakovlev\WebApplication1\WebApplication1\obj\Debug\WebApplication1.Resources.resources
+T:\ЭиУ-468\Yakovlev\WebApplication1\WebApplication1\obj\Debug\WebApplication1.vbproj.GenerateResource.Cache
+T:\ЭиУ-468\Yakovlev\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+T:\ЭиУ-468\Yakovlev\WebApplication1\WebApplication1\obj\Debug\WebApplication1.xml
+T:\ЭиУ-468\Yakovlev\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+G:\8 семестр\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+G:\8 семестр\WebApplication1\WebApplication1\bin\WebApplication1.dll
+G:\8 семестр\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+G:\8 семестр\WebApplication1\WebApplication1\bin\WebApplication1.xml
+G:\8 семестр\WebApplication1\WebApplication1\obj\Debug\WebApplication1.Resources.resources
+G:\8 семестр\WebApplication1\WebApplication1\obj\Debug\WebApplication1.vbproj.GenerateResource.Cache
+G:\8 семестр\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+G:\8 семестр\WebApplication1\WebApplication1\obj\Debug\WebApplication1.xml
+G:\8 семестр\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+F:\8 семестр\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+F:\8 семестр\WebApplication1\WebApplication1\bin\WebApplication1.dll
+F:\8 семестр\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+F:\8 семестр\WebApplication1\WebApplication1\bin\WebApplication1.xml
+F:\8 семестр\WebApplication1\WebApplication1\obj\Debug\WebApplication1.Resources.resources
+F:\8 семестр\WebApplication1\WebApplication1\obj\Debug\WebApplication1.vbproj.GenerateResource.Cache
+F:\8 семестр\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+F:\8 семестр\WebApplication1\WebApplication1\obj\Debug\WebApplication1.xml
+F:\8 семестр\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb

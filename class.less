@@ -1,0 +1,80 @@
+﻿@cool: #f00;
+
+.font(@size,@weight){
+font-family:'Comic Sans MS';
+font-size:@size;
+font-weight:@weight;
+}
+
+@one: #808080;
+.font1(@size,@weight){
+font-family:'Franklin Gothic';
+font-size:@size;
+font-weight:@weight;
+}
+
+
+@color: #3d82d1;
+.container2 {
+    background:lighten(@color, 10%);
+}
+.container1 {
+    background:lighten(@color, 20%);
+}
+.container3 {
+    background:darken(@color, 10%);
+}
+
+
+
+.box1(@border-color){ float:left;
+    padding:10px;
+    margin:30px;
+    width: 250px;
+    height:250px;
+    border-radius:5px;
+    border-style: solid;
+    border-color:@border-color;
+    
+    &:hover{
+        box-shadow:0 8px 26px #ff00dc;
+     
+    }
+
+}
+
+
+.container1 {
+    .box1(#808080);
+  
+    > ol { 
+        > li {
+            .font(10pt,bold);
+        }
+    }
+
+}
+
+.container2{
+
+.box1(#f00);
+
+        > ol {
+        > li {
+            .font1(20pt,bold);
+        }
+    }
+
+        }
+
+.container3{
+
+.box1(#ffd800);
+
+        > ol {
+    
+        > li {
+            .font(20pt,normal);
+        }
+    }
+}
